@@ -1,17 +1,25 @@
-(http://minecraft-mp.com/server-s656)
+(http://reddit.com/r/mcservers)
 
-Looking for a build server? We have that! 
-Wanting to pvp? Got that covered too. 
-Stores and questing more your style? You are STILL in the right place.
+* **Server Name**: Betterverse
+* **Website**: http://www.betterverse.net
+* **Wiki**: http://betterverse.net/wiki
+* **Server Address/IP**: betterverse.net
+* **Game Play Type/s**: [Survival][Skyblocks][Creative]
 
-This is an all in one server with direct access to 3 separate worlds: Bettercraft, the build server; Anarchy, the all-out pvp; and Tekkit for those with that passion. Our creative world is in the works. 
+---
 
-How you play is entirely up to you, and we will have a place for you to do so.
+* **Description**: Betterverse is a professionally maintained service, a community with its roots in Minecraft and an interest in many games.
 
-Custom plugins with inhouse devs means updates don't have to wait. 
-'Round the clock' mods allows you to not have to wait for days if you have an issue or a suggestion to be heard. 
-Certain worlds do have guidelines for fair and enjoyable gaming including safeguards for protecting your items and yourself in the build server.
-Our custom plugins also include an exclusive Raiding plugin.This is used in both the Bettercraft and Anarchy worlds with more freedom in Anarchy.
-We also enjoy a great economy with Communities, stores and quests.
-Come play and build with us. We are more than a simple server. we are Better!
-Join betterverse.net and see where you fit in.
+The server was founded in May of 2011, and continues to go strong to this day. Many friendships have been forged, withstanding times both good and bad.
+
+So long as you are respectful, you will likely go far within the community. There is an emphasis put on by the owner to vote and participate in the community (Forum, Teamspeak, Steam/Origin, etc.) but loners are accepted as well.
+
+* **Rules**: Rules are specific to the server you choose to play on, and you can read the server-specific rules [here.](http://www.betterverse.net/wiki/Main_Page)
+
+---
+
+* **Server Hardware**: Dedicated server: Intel E3-1270v2, servers stored on a pair of striped SSDs.
+* **Plugins**: We primarily run on private plugins, all created specifically for Betterverse servers. Each server will provide you with an introduction and explanation of what can be done while you're there.
+* **Owner/Admins/Moderators**: /u/Asphodan is the owner. All staff, in game, are colored blue and teal.
+* **Pictures/Videos URL**: [YouTube Channel](http://www.youtube.com/betterverseinfo)
+* **Teamspeak:** voice.betterverse.net
